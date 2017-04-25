@@ -1,6 +1,3 @@
-> lets-learn-jobs
-The open archive of GU-MAD's advice for CS majors
-
 # Introduction and Disclaimer
 
 This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice. (But hey, it's better than what you might get at regular career services.)
@@ -54,7 +51,7 @@ For most, this generally comes down to finding something you're interested in an
 
 # Finding Companies and Applying
 
-Once you have built up your profile, you need to start applying for companies. If you go to a school that has little to no connections and has a minimal career fair, **you need to start applying yourself.**
+Once you have built up your profile, you need to start applying for companies. If you go to a school that has little to no connections and has a minimal career fair, **you need to start applying to companies yourself.**
 
 **General tips**
 - APPLY EARLY. Apply in August and September if you can. Start searching for companies day 1 of school. Internships and new grad positions can go real quick.
@@ -66,6 +63,7 @@ Once you have built up your profile, you need to start applying for companies. I
 
 ## Lists of companies
 
+- [Intern Supply](http://www.intern.supply/index.html), a list of companies with internships that are currently open.
 - Hacker News has a "who's hiring" post every year that you can search through. Search `HN Who's Hiring [month] [year]` on google to find a recent post.
 - [Breakoutlist](https://breakoutlist.com) has a list of companies that are currently experiencing large growth (and therefor will probably have more positions open)
 - [Worried about whiteboarding? Checkout this list of companies that hire without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
