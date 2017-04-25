@@ -4,6 +4,12 @@ This guide is collective advice gathered from the computer science students at G
 
 Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutorial/) or suggest edits by creating an issue.
 
+# TLDR
+
+1. Apply early. August and September for Summer internships.
+2. Prep for code challenges.
+3. Apply to way more companies than you think is necessary. Over 30.
+
 # Building your Technical Profile
 
 Your technical profile consists of 4 basic things:
