@@ -4,7 +4,7 @@ This guide is collective advice gathered from the computer science students at G
 
 Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutorial/) or suggest edits by creating an issue.
 
-# TLDR
+### TLDR
 
 1. Apply early. August and September for Summer internships.
 2. Prep for code challenges.
@@ -94,3 +94,32 @@ Send people messages on Twitter.
 Are you from a big city? Don't got a job over the summer? Go on meetup.com.
 
 There's lots of CS related meetups for various tech. This is a fantastic way to network and can really help you find people in your area who might be able to introduce you to a hiring manager.
+
+# Interviews
+
+There are three types of "interviews" that you might experience:
+
+1. Online code challenges
+2. Technical Interviews
+3. Behavioral Interviews
+
+The career center should be able to give you lots of advice on behavioral interviews.
+However, the vast majority of your interview experience will be code challenges and technical interviews.
+
+#### Online code challenges
+These are typically timed algorithm and data structure challenges.
+
+#### Technical Interviews
+These can be short interviews with an engineer or day-long interviews on campus.
+They can cover a variety of topics, but are often very similar to the online-code challenges.
+
+## Practicing
+
+Both the online code challenges and technical interviews typically give you a problem to solve and then ask you to write an algorithm to solve it. Many can be solved by recognizing a particular data structure or common algorithm.
+
+**You need to practice these before you do them.** Start practicing before you get the
+challenge. You can practice these through a number of websites, but here are our favorites:
+
+1. [Hackerrank](https://www.hackerrank.com/)
+2. [Leetcode](https://leetcode.com/)
+3. [Codewars](https://www.codewars.com/)
