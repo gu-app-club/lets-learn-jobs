@@ -47,10 +47,10 @@ An example side project on a resume might look like:
 
 For most, this generally comes down to finding something you're interested in and trying to build it. However, when I first started building things, I had a lot of difficulty just figuring out how to get started. Here's what I recommend:
 
-0. Get a team. Other people will keep you motivated as long as you keep them motivated. It basically creates social pressure to continue.
-1. Build a game, an app, or a web app. There are sooooooooo many tutorials, docs and libraries in almost every language for these, so it's crazy easy to get into.
-2. Find a tutorial to simply get something on your screen.
-3. Set a very small goal for yourself, for example: "Move a block on the screen with the arrow keys", or "connect to a database".
+1. Get a team. Other people will keep you motivated as long as you keep them motivated. It basically creates social pressure to continue.
+2. Build a game, an app, or a web app. There are sooooooooo many tutorials, docs and libraries in almost every language for these, so it's crazy easy to get into.
+3. Find a tutorial to simply get something on your screen.
+4. Set a very small goal for yourself, for example: "Move a block on the screen with the arrow keys", or "connect to a database".
 
 # Finding Companies and Applying
 
