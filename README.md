@@ -59,7 +59,7 @@ Once you have built up your profile, you need to start applying for companies. I
 - Apply for companies even if you don't have everything. Very few people generally do. And it can't hurt.
 - Expand your radius. Don't apply to companies only in your home town. Even if you think you would never want to go to Boston or whatever, having another offer can vastly increase your ability to negotiate and you may end up getting a really good deal.
 - Visit companies in person if you can. This is pretty cheesy, but showing up with your resume (and a box of donuts) can get you noticed and passed screens.
-- Abuse contacts. Does your brother's ex-girlfriend know someone at XYZ company? Reach out.
+- Use contacts. Does your brother's ex-girlfriend know someone at XYZ company? Reach out.
 
 ## Lists of companies
 
