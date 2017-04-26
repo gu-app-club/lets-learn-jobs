@@ -155,3 +155,11 @@ Big O is the efficiency of an algorithm.
 - [Codecademy Big-O interactive tutorial](https://www.codecademy.com/courses/big-o/0/1)
 - [Big-O explained by a self-taught programmer](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 - [Common Algorithms Cheatsheet](http://bigocheatsheet.com/)
+
+## Algorithms and Data Structures
+- Sorting (At least 1 o(n*log(n)) algorithm like quicksort or merge sort)
+- Tree's and Graphs.
+  - Binary Search Trees
+  - N-ary trees
+  - [Trie-trees](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
+  - Representing graphs with Objects/Pointers, Adjacency List, and Matrix.
