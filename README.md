@@ -1,6 +1,6 @@
 # Introduction and Disclaimer
 
-This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice. 
+This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice.
 
 Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutorial/) or suggest edits by creating an issue.
 
@@ -101,11 +101,12 @@ There's lots of CS related meetups for various tech. This is a fantastic way to 
 
 # Interviews
 
-There are three types of "interviews" that you might experience:
+There are several types of "interviews" that you might experience:
 
 1. Online code challenges
 2. Technical Interviews
 3. Behavioral Interviews
+4. "Homework" projects
 
 The career center should be able to give you lots of advice on behavioral interviews.
 However, the vast majority of your interview experience will be code challenges and technical interviews.
@@ -129,11 +130,20 @@ A nice general format to answer these questions is like such:
 1. Tell the story: not too much detail, just enough, usually 30 sec to 1 min.
 2. **Explain how this experience will help this company:** This is really what you want to get to. ("Through this challenge, I learned how to use online resources to solve problems, and this will make me a more effective employee because I can independently figure things out and you don't need anyone to hold my hand.")
 
-Tips:
+###### Tips
 * Develop a repitoire of go-to stories or experiences that reflect positively on what you have to offer. In the moment it will be hard to think of a good story.
 * Don't tell the same story for multiple questions or it will seem that you have only one good experience. Diversity shows you are experienced.
 
 It's important to practice. Look up "20 common interview questions" on Google. Practice with a friend. Work on being concise, clear, and poised.  
+
+#### Homework Projects
+
+Some companies might give you a small project to do in order to prove your abilities. If you're the type of person that dislikes short time limits and really likes building things, then you might like this.
+
+###### Tips
+* Make sure you have enough time. If they give you a week to finish the project, but you have 3 tests in the next few days, share this with them. Most companies can move the schedule around a bit and let you start later or give you more time overall.
+* Use git. Using git is the standard in industry and storing your project on github looks way more professional than sending them a zip file.
+* Do what you know. If you had to learn something new for your project, make your interviewer aware of this. If you're project is a B- project, that looks pretty bad if you claim to know the library and language you're using well. However, if you didn't know it and learned enough to do a B- project, then that can look good for you!
 
 ## Practicing
 
