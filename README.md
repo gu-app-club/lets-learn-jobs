@@ -63,7 +63,7 @@ Once you have built up your profile, you need to start applying for companies. I
 **General tips**
 - APPLY EARLY. Apply in August and September if you can. Start searching for companies day 1 of school. Internships and new grad positions can go real quick.
 - There are tons of good internship finders online. Some of the best are Linkedin, Internship.com, Indeed.com, Glassdoor.
-- Apply for a large list of companies. Over 30. Do not set your sites on one company. Internships are competitive and it's not uncommon to send out 30 applications and only hear back from 1. This doesn't mean you're a bad dev, it can mean they've been hit with literally thousands of applications and can't easily sort through them.
+- Apply for a large list of companies. Over 30. Do not set your sights on one company. Internships are competitive and it's not uncommon to send out 30 applications and only hear back from 1. This doesn't mean you're a bad dev, it can mean they've been hit with literally thousands of applications and can't easily sort through them.
 - Apply for companies even if you don't have everything. Very few people generally do. And it can't hurt.
 - Expand your radius. Don't apply to companies only in your home town. Even if you think you would never want to go to Boston or whatever, having another offer can vastly increase your ability to negotiate and you may end up getting a really good deal.
 - Visit companies in person if you can. This is pretty cheesy, but showing up with your resume (and a box of donuts) can get you noticed and passed screens.
@@ -76,6 +76,7 @@ Once you have built up your profile, you need to start applying for companies. I
 - Hacker News has a "who's hiring" post every year that you can search through. Search `HN Who's Hiring [month] [year]` on google to find a recent post.
 - [Breakoutlist](https://breakoutlist.com) has a list of companies that are currently experiencing large growth (and therefor will probably have more positions open)
 - [Worried about whiteboarding? Checkout this list of companies that hire without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Wealthfront's 2017 Career-launching Companies](https://blog.wealthfront.com/2017-career-launching-companies-list/)
 
 ## Reaching out to people
 
