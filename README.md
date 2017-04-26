@@ -1,6 +1,6 @@
 # Introduction and Disclaimer
 
-This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice. (But hey, it's better than what you might get at regular career services.)
+This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice. 
 
 Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutorial/) or suggest edits by creating an issue.
 
