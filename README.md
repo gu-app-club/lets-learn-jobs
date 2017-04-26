@@ -145,3 +145,13 @@ challenge. You can practice these through a number of websites, but here are our
 1. [Hackerrank](https://www.hackerrank.com/)
 2. [Leetcode](https://leetcode.com/)
 3. [Codewars](https://www.codewars.com/)
+
+## CS Concepts
+Outside of algorithms and data structures, there are certain CS concepts that
+an interview might ask about that you should have a solid understanding of.
+
+#### Big O
+Big O is the efficiency of an algorithm.
+- [Codecademy Big-O interactive tutorial](https://www.codecademy.com/courses/big-o/0/1)
+- [Big-O explained by a self-taught programmer](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
+- [Common Algorithms Cheatsheet](http://bigocheatsheet.com/)
