@@ -193,3 +193,5 @@ Do not immediately accept offers. Always do research on the salary offered, bene
 
 ### What's normal and what's not
 - According to NACE, the National Association of Colleges and Employers, companies should always give you at least 2 weeks to decide on an offer. In certain situations, it is feasible for them to give you several months. See the [NACE guidelines here.](http://www.naceweb.org/career-development/organizational-structure/reasonable-offer-deadlines-guidelines/).
+- **Software internships are almost always paid.** Be VERY cautious about any company that offers you a job that is unpaid.
+- In general, it's probably not a good idea to take equity instead of payment, especially if you're looking for an internship. Very few great companies start off with intern labor. 
