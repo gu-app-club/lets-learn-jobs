@@ -10,6 +10,7 @@ Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutori
 2. Prep for code challenges.
 3. Apply to way more companies than you think is necessary. Over 30.
 
+---
 
 # Building your Technical Profile
 
@@ -56,6 +57,8 @@ For most, this generally comes down to finding something you're interested in an
 3. Find a tutorial to simply get something on your screen.
 4. Set a very small goal for yourself, for example: "Move a block on the screen with the arrow keys", or "connect to a database".
 
+---
+
 # Finding Companies and Applying
 
 Once you have built up your profile, you need to start applying for companies. If you go to a school that has little to no connections and has a minimal career fair, **you need to start applying to companies yourself.**
@@ -98,6 +101,8 @@ Send people messages on Twitter.
 Are you from a big city? Don't got a job over the summer? Go on meetup.com.
 
 There's lots of CS related meetups for various tech. This is a fantastic way to network and can really help you find people in your area who might be able to introduce you to a hiring manager.
+
+---
 
 # Interviews
 
@@ -174,6 +179,8 @@ Big O is the efficiency of an algorithm.
   - [Trie-trees](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
   - Representing graphs with Objects/Pointers, Adjacency List, and Matrix.
 
+---
+
 # Offers
 
 If all goes well, a company will eventually send you an offer. This section is about what's normal, what's not, and advice about handling offers.
@@ -192,6 +199,6 @@ Do not immediately accept offers. Always do research on the salary offered, bene
 - For interns, always ask how the company handles taxes for employees. **Many companies will set you up as a contractor**, which won't give you a regular W2 during tax season. This means you will end up paying more taxes than a regular employee, which effectively lowers your overall wage. This isn't always a bad thing, but it's something to consider.
 
 ### What's normal and what's not
-- According to NACE, the National Association of Colleges and Employers, companies should always give you at least 2 weeks to decide on an offer. In certain situations, it is feasible for them to give you several months. See the [NACE guidelines here.](http://www.naceweb.org/career-development/organizational-structure/reasonable-offer-deadlines-guidelines/).
+- According to NACE, the National Association of Colleges and Employers, companies should always give you at least 2 weeks to decide on an offer. In certain situations, it is feasible for them to give you several months. See the [NACE guidelines here.](http://www.naceweb.org/career-development/organizational-structure/reasonable-offer-deadlines-guidelines/). Don't be afraid to ask for more time if you need it. Very few companies are in desperate need of an intern right _now_.
 - **Software internships are almost always paid.** Be VERY cautious about any company that offers you a job that is unpaid.
-- In general, it's probably not a good idea to take equity instead of payment, especially if you're looking for an internship. Very few great companies start off with intern labor. 
+- In general, it's probably not a good idea to take equity instead of payment, especially if you're looking for an internship. Very few great companies start off with intern labor.
