@@ -173,3 +173,23 @@ Big O is the efficiency of an algorithm.
   - N-ary trees
   - [Trie-trees](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
   - Representing graphs with Objects/Pointers, Adjacency List, and Matrix.
+
+# Offers
+
+If all goes well, a company will eventually send you an offer. This section is about what's normal, what's not, and advice about handling offers.
+
+### I didn't get the offer
+If you got rejected by a company you were really invested in, don't worry.
+- **Be polite to the company.** Do not burn bridges, do not question their decision, move on for now.
+- If you applied for multiple positions, some companies might reject you for one position and accept you for another.
+- You can always reapply. Many Googler's applied several times before they got an offer.
+- Rejections often happen due to bad luck. Maybe they already found enough qualified people. Maybe the recruiter was looking for a super specific library. Maybe you got filtered out by a keyword checker. Maybe they ran out of money and the position disappeared! It's not always you.
+- That said, turn this event into a positive. **Go apply to three more companies every time you get rejected.** This will give you more experience and will increase your chances over the long run.
+
+### Discussing the offer
+Do not immediately accept offers. Always do research on the salary offered, benefits, location and company.
+- If the company wants you to move but doesn't offer any housing/travel assistance, make sure you look into how much this might cost you relatively to your salary. 90k might sound like a great salary in Spokane, but can be a pretty terrible salary in Silicon valley.
+- For interns, always ask how the company handles taxes for employees. **Many companies will set you up as a contractor**, which won't give you a regular W2 during tax season. This means you will end up paying more taxes than a regular employee, which effectively lowers your overall wage. This isn't always a bad thing, but it's something to consider.
+
+### What's normal and what's not
+- According to NACE, the National Association of Colleges and Employers, companies should always give you at least 2 weeks to decide on an offer. In certain situations, it is feasible for them to give you several months. See the [NACE guidelines here.](http://www.naceweb.org/career-development/organizational-structure/reasonable-offer-deadlines-guidelines/).
