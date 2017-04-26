@@ -10,6 +10,7 @@ Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutori
 2. Prep for code challenges.
 3. Apply to way more companies than you think is necessary. Over 30.
 
+
 # Building your Technical Profile
 
 Your technical profile consists of 4 basic things:
@@ -61,11 +62,13 @@ Once you have built up your profile, you need to start applying for companies. I
 
 **General tips**
 - APPLY EARLY. Apply in August and September if you can. Start searching for companies day 1 of school. Internships and new grad positions can go real quick.
+- There are tons of good internship finders online. Some of the best are Linkedin, Internship.com, Indeed.com, Glassdoor.
 - Apply for a large list of companies. Over 30. Do not set your sites on one company. Internships are competitive and it's not uncommon to send out 30 applications and only hear back from 1. This doesn't mean you're a bad dev, it can mean they've been hit with literally thousands of applications and can't easily sort through them.
 - Apply for companies even if you don't have everything. Very few people generally do. And it can't hurt.
 - Expand your radius. Don't apply to companies only in your home town. Even if you think you would never want to go to Boston or whatever, having another offer can vastly increase your ability to negotiate and you may end up getting a really good deal.
 - Visit companies in person if you can. This is pretty cheesy, but showing up with your resume (and a box of donuts) can get you noticed and passed screens.
 - Use contacts. Does your brother's ex-girlfriend know someone at XYZ company? Reach out.
+- Contact a recruiter from the company directly on Linkedin.
 
 ## Lists of companies
 
@@ -112,6 +115,24 @@ These are typically timed algorithm and data structure challenges.
 #### Technical Interviews
 These can be short interviews with an engineer or day-long interviews on campus.
 They can cover a variety of topics, but are often very similar to the online-code challenges.
+
+Tips for in-person technical interviews:
+* Start simple: start with the brute force solution and then move on to more optimized solutions. It buys you time and ensures that you got at least something right.
+* Narrate your thought process: explain what you are thinking and why you are making the choices you are making. It will make you seem thoughtful and thorough and fills the awkward silence gaps.
+
+#### Behavioral Interviews
+These are usually 30 min to an hour with an HR person.
+They'll ask you questions like "Describe a time you failed. What did you learn?" or "What is a project you are really proud of?". The key here is to realize that every question is merely a different spin on **why should we hire you?**
+
+A nice general format to answer these questions is like such:
+1. Tell the story: not too much detail, just enough, usually 30 sec to 1 min.
+2. **Explain how this experience will help this company:** This is really what you want to get to. ("Through this challenge, I learned how to use online resources to solve problems, and this will make me a more effective employee because I can independently figure things out and you don't need anyone to hold my hand.")
+
+Tips:
+* Develop a repitoire of go-to stories or experiences that reflect positively on what you have to offer. In the moment it will be hard to think of a good story.
+* Don't tell the same story for multiple questions or it will seem that you have only one good experience. Diversity shows you are experienced.
+
+It's important to practice. Look up "20 common interview questions" on Google. Practice with a friend. Work on being concise, clear, and poised.  
 
 ## Practicing
 
