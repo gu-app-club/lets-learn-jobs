@@ -185,13 +185,20 @@ Big O is the efficiency of an algorithm.
 
 If all goes well, a company will eventually send you an offer. This section is about what's normal, what's not, and advice about handling offers.
 
-### I didn't get the offer
+### If you didn't get the offer
 If you got rejected by a company you were really invested in, don't worry.
 - **Be polite to the company.** Do not burn bridges, do not question their decision, move on for now.
 - If you applied for multiple positions, some companies might reject you for one position and accept you for another.
 - You can always reapply. Many Googler's applied several times before they got an offer.
 - Rejections often happen due to bad luck. Maybe they already found enough qualified people. Maybe the recruiter was looking for a super specific library. Maybe you got filtered out by a keyword checker. Maybe they ran out of money and the position disappeared! It's not always you.
 - That said, turn this event into a positive. **Go apply to three more companies every time you get rejected.** This will give you more experience and will increase your chances over the long run.
+
+### Pay
+Software internships are paid. Often, they are paid much more than other jobs. How much you get paid is highly region dependent, but in general, larger cities pay more (but are also more expensive to live in). Some of the larger household name companies can pay around 45$/hour. However, a small company in a small city might pay around 12$/hour.
+
+- Check [Glassdoor](https://www.glassdoor.com/index.htm) to find previous salaries.
+- Ask around to see what other companies are paying.
+- If you don't know what a specific company is paying, you can use a similar sized company in the same area as an estimate. 
 
 ### Discussing the offer
 Do not immediately accept offers. Always do research on the salary offered, benefits, location and company.
