@@ -1,4 +1,17 @@
 
+# Introduction and Disclaimer
+
+This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice.
+
+Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutorial/) or suggest edits by creating an issue.
+
+### TLDR
+
+1. Apply early. August and September for Summer internships.
+2. Prep for code challenges.
+3. Apply to way more companies than you think is necessary. Over 30.
+
+# Contents
 - [Building your Technical Profile](#building-your-technical-profile)
   * [Side Projects](#side-projects)
   * [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
@@ -29,21 +42,6 @@
     + [Pay](#pay)
     + [Discussing the offer](#discussing-the-offer)
     + [What's normal and what's not](#whats-normal-and-whats-not)
-
----
-
-
-# Introduction and Disclaimer
-
-This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice.
-
-Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutorial/) or suggest edits by creating an issue.
-
-### TLDR
-
-1. Apply early. August and September for Summer internships.
-2. Prep for code challenges.
-3. Apply to way more companies than you think is necessary. Over 30.
 
 ---
 
