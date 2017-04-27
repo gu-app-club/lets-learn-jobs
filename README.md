@@ -10,10 +10,10 @@
   * [Reaching out to people](#reaching-out-to-people)
     + [Taking advantage of where you live.](#taking-advantage-of-where-you-live)
 - [Interviews](#interviews)
-      - [Online code challenges](#online-code-challenges)
-      - [Technical Interviews](#technical-interviews)
-      - [Behavioral Interviews](#behavioral-interviews)
-      - [Homework Projects](#homework-projects)
+  - [Online code challenges](#online-code-challenges)
+  - [Technical Interviews](#technical-interviews)
+  - [Behavioral Interviews](#behavioral-interviews)
+  - [Homework Projects](#homework-projects)
   * [Practicing](#practicing)
   * [CS Concepts](#cs-concepts)
       - [Big O](#big-o)
@@ -80,7 +80,7 @@ An example side project on a resume might look like:
 ## Make a personal website to showcase your side projects
 
 Many companies will ask for your website. It's better to have one than not. It doesn't need to be fancy, just some HTML and Bootstrap for style. Include
-1. Short bio 
+1. Short bio
 2. Information about side projects. Include a list of collaborators and technologies used. Link to the projects if they are deployed or on an app store. Use images and graphs. This is a chance to add a lot more information than you could fit on your resume.
 
 Optional things for your website
