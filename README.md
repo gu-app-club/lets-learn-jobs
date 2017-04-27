@@ -70,6 +70,8 @@ For many people, classes alone are probably not enough to get the type of job yo
 If you have room, it's common to put side projects under a "projects" section in your resume. Include:
 1. The language and libraries you used.
 2. Some metric to show the size of the project (time taken to complete, user statistics, lines of code, ect)
+3. When the project was created.
+4. A short description of the project.
 
 An example side project on a resume might look like:
 
@@ -77,8 +79,10 @@ An example side project on a resume might look like:
 # Projects
 
 ## Doohicky.io [Summer, 2016]
+- Combines foo with bar whenever a user clicks a button.
 - Built with Node.js and React.
 - Hosted on AWS.
+- 5,000 daily active users
 ```
 
 ## Make a personal website to showcase your side projects
@@ -143,7 +147,7 @@ Send people messages on Twitter.
 
 ### Taking advantage of where you live.
 
-Are you from a big city? Don't got a job over the summer? Go on meetup.com.
+Are you from a big city? Don't got a job over the summer? Go on [meetup.com](https://www.meetup.com/).
 
 There's lots of CS related meetups for various tech. This is a fantastic way to network and can really help you find people in your area who might be able to introduce you to a hiring manager.
 
