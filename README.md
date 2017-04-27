@@ -14,9 +14,9 @@ Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutori
 # Contents
 - [Building your Technical Profile](#building-your-technical-profile)
   * [Side Projects](#side-projects)
-  * [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
-  * [Make a personal website to showcase your side projects](#make-a-personal-website-to-showcase-your-side-projects)
-  * [How to get started with side projects](#how-to-get-started-with-side-projects)
+      + [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
+      + [Make a personal website to showcase your side projects](#make-a-personal-website-to-showcase-your-side-projects)
+      + [How to get started with side projects](#how-to-get-started-with-side-projects)
 - [Finding Companies and Applying](#finding-companies-and-applying)
   * [Lists of companies](#lists-of-companies)
   * [Reaching out to people](#reaching-out-to-people)
@@ -65,7 +65,7 @@ Each of these generally have their own section on a resume, typically as:
 
 For many people, classes alone are probably not enough to get the type of job you want. Having experience through side projects or jobs shows initiative and lets employers know that you can learn on your own.
 
-## How to put a side project on a resume
+### How to put a side project on a resume
 
 If you have room, it's common to put side projects under a "projects" section in your resume. Include:
 1. The language and libraries you used.
@@ -85,7 +85,7 @@ An example side project on a resume might look like:
 - 5,000 daily active users
 ```
 
-## Make a personal website to showcase your side projects
+### Make a personal website to showcase your side projects
 
 Many companies will ask for your website. It's better to have one than not. It doesn't need to be fancy, just some HTML and Bootstrap for style. Include
 1. Short bio
@@ -97,7 +97,7 @@ Optional things for your website
 3. Email
 
 
-## How to get started with side projects
+### How to get started with side projects
 
 For most, this generally comes down to finding something you're interested in and trying to build it. However, when I first started building things, I had a lot of difficulty just figuring out how to get started. Here's what I recommend:
 
