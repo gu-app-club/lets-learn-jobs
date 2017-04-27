@@ -134,7 +134,7 @@ Once you have built up your profile, you need to start applying for companies. I
 
 You can always reach out to people at certain companies. Don't got connections? Does GU not provide any help for 99.9% of the companies you're interested in?
 
-Find people on linkedIN. Make sure that you're looking for a University Recruiter if you're looking at a big company. Want to contact a university recruiter at XYZ Company?
+Find people on LinkedIn. Make sure that you're looking for a University Recruiter if you're looking at a big company. Want to contact a university recruiter at XYZ Company?
 
 Type this:
 ```
@@ -143,11 +143,11 @@ site:linkedin.com (inurl:in OR inurl:pub) -inurl:dir -inurl:job -inurl:jobs -inu
 
 Into google and replace `<Company>` with your company you're interested in.
 
-Send people messages on Twitter.
+Alternatively, you can send people messages on Twitter or via email. Always remember to try to make the best possible first impresssion.
 
 ### Taking advantage of where you live.
 
-Are you from a big city? Don't got a job over the summer? Go on [meetup.com](https://www.meetup.com/).
+Are you from a big city? Do you not have a job for the summer? Go on [meetup.com](https://www.meetup.com/).
 
 There's lots of CS related meetups for various tech. This is a fantastic way to network and can really help you find people in your area who might be able to introduce you to a hiring manager.
 
