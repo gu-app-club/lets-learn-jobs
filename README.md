@@ -77,6 +77,18 @@ An example side project on a resume might look like:
 - Hosted on AWS.
 ```
 
+## Make a personal website to showcase your side projects
+
+Many companies will ask for your website. It's better to have one than not. It doesn't need to be fancy, just some HTML and Bootstrap for style. Include
+1. Short bio 
+2. Information about side projects. Include a list of collaborators and technologies used. Link to the projects if they are deployed or on an app store. Use images and graphs. This is a chance to add a lot more information than you could fit on your resume.
+
+Optional things for your website
+1. Link to GitHub, LinkedIn, Twitter, etc.
+2. Copy of resume
+3. Email
+
+
 ## How to get started with side projects
 
 For most, this generally comes down to finding something you're interested in and trying to build it. However, when I first started building things, I had a lot of difficulty just figuring out how to get started. Here's what I recommend:
