@@ -1,19 +1,25 @@
 
-- [Introduction and Disclaimer](#introduction-and-disclaimer)
-    + [TLDR](#tldr)
 - [Building your Technical Profile](#building-your-technical-profile)
   * [Side Projects](#side-projects)
   * [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
+  * [Make a personal website to showcase your side projects](#make-a-personal-website-to-showcase-your-side-projects)
   * [How to get started with side projects](#how-to-get-started-with-side-projects)
 - [Finding Companies and Applying](#finding-companies-and-applying)
   * [Lists of companies](#lists-of-companies)
   * [Reaching out to people](#reaching-out-to-people)
     + [Taking advantage of where you live.](#taking-advantage-of-where-you-live)
 - [Interviews](#interviews)
-  - [Online code challenges](#online-code-challenges)
-  - [Technical Interviews](#technical-interviews)
-  - [Behavioral Interviews](#behavioral-interviews)
-  - [Homework Projects](#homework-projects)
+      - [Online code challenges](#online-code-challenges)
+      - [Technical Interviews](#technical-interviews)
+      - [Behavioral Interviews](#behavioral-interviews)
+          + [Tips](#tips)
+      - [Homework Projects](#homework-projects)
+          + [Tips](#tips-1)
+  * [Nerves](#nerves)
+    + [Dealing with Nerves through Repetition](#dealing-with-nerves-through-repetition)
+    + [Dealing with Nerves through Hippie-Dippie Magic](#dealing-with-nerves-through-hippie-dippie-magic)
+      - [Meditation](#meditation)
+      - [Muscle Tightening](#muscle-tightening)
   * [Practicing](#practicing)
   * [CS Concepts](#cs-concepts)
       - [Big O](#big-o)
@@ -190,6 +196,56 @@ Some companies might give you a small project to do in order to prove your abili
 * Make sure you have enough time. If they give you a week to finish the project, but you have 3 tests in the next few days, share this with them. Most companies can move the schedule around a bit and let you start later or give you more time overall.
 * Use git. Using git is the standard in industry and storing your project on github looks way more professional than sending them a zip file.
 * Do what you know. If you had to learn something new for your project, make your interviewer aware of this. If you're project is a B- project, that looks pretty bad if you claim to know the library and language you're using well. However, if you didn't know it and learned enough to do a B- project, then that can look good for you!
+
+## Nerves
+
+When you get into an interview, do you blank out? Does a timed code challenge make you go cold and completely freak? Then this section is for you.
+
+If you have nerves, don't feel bad about telling your interviewer upfront. No reasonable company would count that against you.
+
+However, it's still nice to not have nerves.
+
+There's generally two strategies to dealing with nerves during interviews:
+1. Repetition of the process
+2. Hippie-Dippie Magic
+
+### Dealing with Nerves through Repetition
+
+You need to become more comfortable with the process of interviewing if you want to not be afraid of it. Not only will repetition and practice make you less afraid of the concept, you will become better overall, which will help you pass despite the fear.
+
+Replicate the environment as much as you can.
+- Get a friend to interview you on a whiteboard.
+- If you're practicing on HackerRank, give yourself 20 minutes to solve the problem.
+- Pick real questions out of a book like [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=W5XFW9YRFEA9BDY4PCWT)
+
+### Dealing with Nerves through Hippie-Dippie Magic
+
+#### Meditation
+
+If you haven't ever done any meditation or similar exercises, it probably seems like hippie-dippie stuff. It might be. But it's super helpful.
+
+**Meditation is all about observation.** When you get nervous during an interview, your immediate reaction is to try and fight it.
+
+But this generally doesn't work very well; your brain is really great at keeping you afraid. So this makes you even more nervous and that creates a feedback loop.
+
+So instead, when you feel nervous, step back and watch what your body and brain is doing. Treat it like a rollercoaster. Let your brain take you for a ride. Don't fight it, just let it pass. It's all just hormones, your body can only pump it out for a little while anyway.
+
+If nerves are really a problem, you may find it helpful to practice meditation overall. "Observing" instead of experiencing the fear is something that is easier said than done. But it's a muscle that you can build over time. Try doing [this](https://imgur.com/75wn1o9) every morning after you brush your teeth.
+
+#### Muscle Tightening
+
+Another thing you can try is muscle tightening. This is an exercise that is used by therapists and mental health folks all over the country and will trick your body into thinking it's doing A-okay.
+
+It works best if you are sitting or lying down, but in a pinch it can be done while standing up. Although that might require a bit of balance.
+
+1. Starting with your right hand, tighten and hold your muscle.
+2. While continuing to hold your hand tight, start tightening the rest of your arm.
+3. Then, tighten your shoulder, then your abs, and the other arm.
+4. Continue to let this spread throughout your body, down your legs and up to your face.
+5. Hold this for 30 seconds.
+6. Then slowly, starting with your right hand, release muscle by muscle. So first your hand, then your arm, then your shoulder and so on.
+
+You might want to try this now and see how you feel.
 
 ## Practicing
 
