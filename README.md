@@ -1,3 +1,32 @@
+
+- [Introduction and Disclaimer](#introduction-and-disclaimer)
+    + [TLDR](#tldr)
+- [Building your Technical Profile](#building-your-technical-profile)
+  * [Side Projects](#side-projects)
+  * [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
+  * [How to get started with side projects](#how-to-get-started-with-side-projects)
+- [Finding Companies and Applying](#finding-companies-and-applying)
+  * [Lists of companies](#lists-of-companies)
+  * [Reaching out to people](#reaching-out-to-people)
+    + [Taking advantage of where you live.](#taking-advantage-of-where-you-live)
+- [Interviews](#interviews)
+      - [Online code challenges](#online-code-challenges)
+      - [Technical Interviews](#technical-interviews)
+      - [Behavioral Interviews](#behavioral-interviews)
+      - [Homework Projects](#homework-projects)
+  * [Practicing](#practicing)
+  * [CS Concepts](#cs-concepts)
+      - [Big O](#big-o)
+  * [Algorithms and Data Structures](#algorithms-and-data-structures)
+- [Offers](#offers)
+    + [If you didn't get the offer](#if-you-didnt-get-the-offer)
+    + [Pay](#pay)
+    + [Discussing the offer](#discussing-the-offer)
+    + [What's normal and what's not](#whats-normal-and-whats-not)
+
+---
+
+
 # Introduction and Disclaimer
 
 This guide is collective advice gathered from the computer science students at Gonzaga University. It should not be considered "professional" advice.
@@ -198,7 +227,7 @@ Software internships are paid. Often, they are paid much more than other jobs. H
 
 - Check [Glassdoor](https://www.glassdoor.com/index.htm) to find previous salaries.
 - Ask around to see what other companies are paying.
-- If you don't know what a specific company is paying, you can use a similar sized company in the same area as an estimate. 
+- If you don't know what a specific company is paying, you can use a similar sized company in the same area as an estimate.
 
 ### Discussing the offer
 Do not immediately accept offers. Always do research on the salary offered, benefits, location and company.
