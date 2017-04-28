@@ -135,8 +135,8 @@ For most, this generally comes down to finding something you're interested in an
 Once you have built up your profile, you need to start applying for companies. If you go to a school that has little to no connections and has a minimal career fair, **you need to start applying to companies yourself.**
 
 **General tips**
-- APPLY EARLY. Apply in August and September if you can. Start searching for companies day 1 of school. Internships and new grad positions can go real quick.
-- There are tons of good internship finders online. Some of the best are Linkedin, Internship.com, Indeed.com, Glassdoor.
+- APPLY EARLY. Apply in August and September if you can. Start searching for companies day 1 of school. Internships and new grad positions can fill really quick.
+- There are tons of good internship search sites online. Some of the best are Linkedin, Internship.com, Indeed.com, Glassdoor.
 - Apply for a large list of companies. Over 30. Do not set your sights on one company. Internships are competitive and it's not uncommon to send out 30 applications and only hear back from 1. This doesn't mean you're a bad dev, it can mean they've been hit with literally thousands of applications and can't easily sort through them.
 - Apply for companies even if you don't have everything. Very few people generally do. And it can't hurt.
 - Expand your radius. Don't apply to companies only in your home town. Even if you think you would never want to go to Boston or whatever, having another offer can vastly increase your ability to negotiate and you may end up getting a really good deal.
@@ -154,7 +154,7 @@ Once you have built up your profile, you need to start applying for companies. I
 
 ## Reaching out to people
 
-You can always reach out to people at certain companies. Don't got connections? Does GU not provide any help for 99.9% of the companies you're interested in?
+You can always reach out to people at certain companies. Don't have connections? Does GU not provide any help for 99.9% of the companies you're interested in?
 
 Find people on LinkedIn. Make sure that you're looking for a University Recruiter if you're looking at a big company. Want to contact a university recruiter at XYZ Company?
 
