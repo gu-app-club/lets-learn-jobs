@@ -14,9 +14,9 @@ Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutori
 # Contents
 - [Building your Technical Profile](#building-your-technical-profile)
   * [Side Projects](#side-projects)
-  * [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
-  * [Make a personal website to showcase your side projects](#make-a-personal-website-to-showcase-your-side-projects)
-  * [How to get started with side projects](#how-to-get-started-with-side-projects)
+      + [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
+      + [Make a personal website to showcase your side projects](#make-a-personal-website-to-showcase-your-side-projects)
+      + [How to get started with side projects](#how-to-get-started-with-side-projects)
 - [Finding Companies and Applying](#finding-companies-and-applying)
   * [Lists of companies](#lists-of-companies)
   * [Reaching out to people](#reaching-out-to-people)
@@ -65,11 +65,13 @@ Each of these generally have their own section on a resume, typically as:
 
 For many people, classes alone are probably not enough to get the type of job you want. Having experience through side projects or jobs shows initiative and lets employers know that you can learn on your own.
 
-## How to put a side project on a resume
+### How to put a side project on a resume
 
 If you have room, it's common to put side projects under a "projects" section in your resume. Include:
 1. The language and libraries you used.
 2. Some metric to show the size of the project (time taken to complete, user statistics, lines of code, ect)
+3. When the project was created.
+4. A short description of the project.
 
 An example side project on a resume might look like:
 
@@ -77,11 +79,13 @@ An example side project on a resume might look like:
 # Projects
 
 ## Doohicky.io [Summer, 2016]
+- Combines foo with bar whenever a user clicks a button.
 - Built with Node.js and React.
 - Hosted on AWS.
+- 5,000 daily active users
 ```
 
-## Make a personal website to showcase your side projects
+### Make a personal website to showcase your side projects
 
 Many companies will ask for your website. It's better to have one than not. It doesn't need to be fancy, just some HTML and Bootstrap for style. Include
 1. Short bio
@@ -93,7 +97,7 @@ Optional things for your website
 3. Email
 
 
-## How to get started with side projects
+### How to get started with side projects
 
 For most, this generally comes down to finding something you're interested in and trying to build it. However, when I first started building things, I had a lot of difficulty just figuring out how to get started. Here's what I recommend:
 
@@ -130,7 +134,7 @@ Once you have built up your profile, you need to start applying for companies. I
 
 You can always reach out to people at certain companies. Don't got connections? Does GU not provide any help for 99.9% of the companies you're interested in?
 
-Find people on linkedIN. Make sure that you're looking for a University Recruiter if you're looking at a big company. Want to contact a university recruiter at XYZ Company?
+Find people on LinkedIn. Make sure that you're looking for a University Recruiter if you're looking at a big company. Want to contact a university recruiter at XYZ Company?
 
 Type this:
 ```
@@ -139,11 +143,11 @@ site:linkedin.com (inurl:in OR inurl:pub) -inurl:dir -inurl:job -inurl:jobs -inu
 
 Into google and replace `<Company>` with your company you're interested in.
 
-Send people messages on Twitter.
+Alternatively, you can send people messages on Twitter or via email. Always remember to try to make the best possible first impresssion.
 
 ### Taking advantage of where you live.
 
-Are you from a big city? Don't got a job over the summer? Go on meetup.com.
+Are you from a big city? Do you not have a job for the summer? Go on [meetup.com](https://www.meetup.com/).
 
 There's lots of CS related meetups for various tech. This is a fantastic way to network and can really help you find people in your area who might be able to introduce you to a hiring manager.
 
