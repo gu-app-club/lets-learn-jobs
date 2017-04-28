@@ -63,6 +63,7 @@ Each of these generally have their own section on a resume, typically as:
 
 ## Skills
 
+
 Generally, you want to provide a list of skills to allow the resume reviewer to quickly identify if you're a good fit for the job. 
 
 ### How to put skills on your resume
@@ -84,7 +85,7 @@ You may also choose to specify competency, either by listing in order of familia
 ## Side Projects
 
 
-For many people, classes alone are probably not enough to get the type of job you want. Having experience through side projects or jobs shows initiative and lets employers know that you can learn on your own.
+For many people, classes alone are probably not enough to get the type of job you want. Having experience through side projects shows initiative and lets employers know that you can learn on your own.
 
 ### How to put a side project on a resume
 
@@ -125,7 +126,7 @@ For most, this generally comes down to finding something you're interested in an
 1. Get a team. Other people will keep you motivated as long as you keep them motivated. It basically creates social pressure to continue.
 2. Build a game, an app, or a web app. There are sooooooooo many tutorials, docs and libraries in almost every language for these, so it's crazy easy to get into.
 3. Find a tutorial to simply get something on your screen.
-4. Set a very small goal for yourself, for example: "Move a block on the screen with the arrow keys", or "connect to a database".
+4. Set a very small goal for yourself, for example: "Move a block on the screen with the arrow keys", or "connect to a database". From here, you can incrementally build out a larger project, but small goals make it achievable.
 
 ---
 
