@@ -13,6 +13,8 @@ Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutori
 
 # Contents
 - [Building your Technical Profile](#building-your-technical-profile)
+  * [Skills](#skills)
+      + [How to put skills on your resume](#how-to-put-skills-on-your-resume)
   * [Side Projects](#side-projects)
       + [How to put a side project on a resume](#how-to-put-a-side-project-on-a-resume)
       + [Make a personal website to showcase your side projects](#make-a-personal-website-to-showcase-your-side-projects)
@@ -38,6 +40,8 @@ Feel free [to submit pull requests](https://yangsu.github.io/pull-request-tutori
       - [Big O](#big-o)
   * [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Offers](#offers)
+	+ [After the interview](#post-interview)
+	+ [If you hear nothing](#no-response)
     + [If you didn't get the offer](#if-you-didnt-get-the-offer)
     + [Pay](#pay)
     + [Discussing the offer](#discussing-the-offer)
