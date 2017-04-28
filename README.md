@@ -188,7 +188,8 @@ The career center should be able to give you lots of advice on behavioral interv
 However, the vast majority of your interview experience will be code challenges and technical interviews.
 
 #### Online code challenges
-These are typically timed algorithm and data structure challenges.
+
+These are typically timed algorithm and data structure challenges. They are generally conducted through an online portal.
 
 #### Technical Interviews
 These can be short interviews with an engineer or day-long interviews on campus.
@@ -197,6 +198,8 @@ They can cover a variety of topics, but are often very similar to the online-cod
 Tips for in-person technical interviews:
 * Start simple: start with the brute force solution and then move on to more optimized solutions. It buys you time and ensures that you got at least something right.
 * Narrate your thought process: explain what you are thinking and why you are making the choices you are making. It will make you seem thoughtful and thorough and fills the awkward silence gaps.
+* Ask for help: If you don't know something, or are deciding between a couple implementations, talk through your reasoning and discuss it with your interviewer.
+* Admit knowledge gaps: Don't try to bluster your way through, if you don't remember the syntax or semantics for XYZ let your interviewer know, brush it off, and keep going from there.
 
 #### Behavioral Interviews
 These are usually 30 min to an hour with an HR person.
@@ -209,6 +212,7 @@ A nice general format to answer these questions is like such:
 ###### Tips
 * Develop a repitoire of go-to stories or experiences that reflect positively on what you have to offer. In the moment it will be hard to think of a good story.
 * Don't tell the same story for multiple questions or it will seem that you have only one good experience. Diversity shows you are experienced.
+* Use the [STAR method](https://careerservices.wayne.edu/behavioralinterviewinfo.pdf) to smoothly and completely answer.
 
 It's important to practice. Look up "20 common interview questions" on Google. Practice with a friend. Work on being concise, clear, and poised.  
 
@@ -220,6 +224,7 @@ Some companies might give you a small project to do in order to prove your abili
 * Make sure you have enough time. If they give you a week to finish the project, but you have 3 tests in the next few days, share this with them. Most companies can move the schedule around a bit and let you start later or give you more time overall.
 * Use git. Using git is the standard in industry and storing your project on github looks way more professional than sending them a zip file.
 * Do what you know. If you had to learn something new for your project, make your interviewer aware of this. If you're project is a B- project, that looks pretty bad if you claim to know the library and language you're using well. However, if you didn't know it and learned enough to do a B- project, then that can look good for you!
+* Don't get taken advantage of! If it looks like you're implementing real functionality for them, be wary. If they ask you to spend more than a few hours, unless you're desperate, move along.
 
 ## Nerves
 
@@ -308,6 +313,25 @@ Big O is the efficiency of an algorithm.
 # Offers
 
 If all goes well, a company will eventually send you an offer. This section is about what's normal, what's not, and advice about handling offers.
+
+### After the interview
+Within 24 hours, send a thank you email to your interviewer(s) and/or recruiter. Thank them for their time and attention, mention something specific from the interview (i.e "I really enjoyed our discussion of XYZ" or "After speaking with you, I've been spending some time looking into uses of XYZ"), and offer up additional information ("Please feel free to reach out if there is anything else you need from me"). 
+
+**Tips** 
+- This is where you can ask about timeline, if you haven't already. Simply include a line such as "When can I expect to hear back from you with regards to XYZ?"
+
+### If you hear nothing
+If you haven't hear within the timeframe they advised, or at most within a week, send a quick follow-up email. A simple example would be:
+```
+Dear X,
+
+Thank you again for taking the time to speak with me {on X date}.
+When we last spoke, you mentioned I should expect to hear back {within Y timeframe}.
+Do you have any update for me, or is there anything additional you need from me?
+
+Thanks again,
+{Name}
+```
 
 ### If you didn't get the offer
 If you got rejected by a company you were really invested in, don't worry.
