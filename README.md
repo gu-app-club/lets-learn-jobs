@@ -259,10 +259,13 @@ challenge. You can practice these through a number of websites, but here are our
 1. [Hackerrank](https://www.hackerrank.com/)
 2. [Leetcode](https://leetcode.com/)
 3. [Codewars](https://www.codewars.com/)
+4. [Firecode.io](https://www.firecode.io/) 
 
 ## CS Concepts
 Outside of algorithms and data structures, there are certain CS concepts that
 an interview might ask about that you should have a solid understanding of.
+
+- [A true, complete guide to CS concepts prep. (coding interview university)](https://github.com/jwasham/coding-interview-university)
 
 #### Big O
 Big O is the efficiency of an algorithm.
