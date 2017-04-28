@@ -61,7 +61,28 @@ Each of these generally have their own section on a resume, typically as:
 
 **Side note**: If you have a GPA lower than 3.0, don't put it on your resume. If they ask about it, don't lie. Many companies don't care about your GPA and it frequently does not mean you are a poor engineer.
 
+## Skills
+
+Generally, you want to provide a list of skills to allow the resume reviewer to quickly identify if you're a good fit for the job. 
+
+### How to put skills on your resume
+
+There are many ways to do this, however the most common is to provide a breakdown based on the above categories.
+
+For example:
+```
+- Languages:
+- Libraries & Frameworks:
+- Tools:
+```
+You may also choose to specify competency, either by listing in order of familiarity, or by listing grouped by level of proficiency
+
+**Tips**
+- Don't include irrelevant or generic skills like Microsoft Office Suite, it dilutes the section
+- Tailor this section based on the job posting. If they ask for a specific framework, make sure you include it here (if you've used it!)
+
 ## Side Projects
+
 
 For many people, classes alone are probably not enough to get the type of job you want. Having experience through side projects or jobs shows initiative and lets employers know that you can learn on your own.
 
