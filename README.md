@@ -68,7 +68,7 @@ Each of these generally have their own section on a resume, typically as:
 ## Skills
 
 
-Generally, you want to provide a list of skills to allow the resume reviewer to quickly identify if you're a good fit for the job. 
+Generally, you want to provide a list of skills to allow the resume reviewer to quickly identify if you're a good fit for the job.
 
 ### How to put skills on your resume
 
@@ -91,26 +91,6 @@ You may also choose to specify competency, either by listing in order of familia
 
 For many people, classes alone are probably not enough to get the type of job you want. Having experience through side projects shows initiative and lets employers know that you can learn on your own.
 
-### How to put a side project on a resume
-
-If you have room, it's common to put side projects under a "projects" section in your resume. Include:
-1. The language and libraries you used.
-2. Some metric to show the size of the project (time taken to complete, user statistics, lines of code, ect)
-3. When the project was created.
-4. A short description of the project.
-
-An example side project on a resume might look like:
-
-```
-# Projects
-
-## Doohicky.io [Summer, 2016]
-- Combines foo with bar whenever a user clicks a button.
-- Built with Node.js and React.
-- Hosted on AWS.
-- 5,000 daily active users
-```
-
 ### Make a personal website to showcase your side projects
 
 Many companies will ask for your website. It's better to have one than not. It doesn't need to be fancy, just some HTML and Bootstrap for style. Include
@@ -131,6 +111,56 @@ For most, this generally comes down to finding something you're interested in an
 2. Build a game, an app, or a web app. There are sooooooooo many tutorials, docs and libraries in almost every language for these, so it's crazy easy to get into.
 3. Find a tutorial to simply get something on your screen.
 4. Set a very small goal for yourself, for example: "Move a block on the screen with the arrow keys", or "connect to a database". From here, you can incrementally build out a larger project, but small goals make it achievable.
+
+---
+
+# Resumes
+
+In general, your career center can help you write a resume. It's advised to seek advice from them first. This section will instead try to focus on specifics of applying for software jobs.
+
+## Common Mistakes
+1. Don't use PDF. Some companies will scan your resume for keywords or just to fill out their own forms. PDFs will make it more difficult to apply for a job online and makes it more likely you will get weeded out by a keyword-searcher.
+2. Single page. 1 page. Please, seriously. 1 page.
+3. You don't need an objective, personal statement, or self-summary.
+
+## General Resume Structure
+
+```
+- Name, email, phone
+- Education
+- Projects/Experience
+- Skills
+```
+
+## Projects on a Resume
+Put a project or two on your resume. If you don't have personal projects, put the biggest class project you have. Make sure it's clear that it's a class project, but having something is better than nothing.
+
+Include:
+1. The language and libraries you used.
+2. Some metric to show the size of the project (time taken to complete, user statistics, lines of code, ect)
+3. When the project was created.
+4. A short description of the project.
+
+An example side project on a resume might look like:
+
+```
+# Projects
+
+## Doohicky.io [Summer, 2016]
+- Combines foo with bar whenever a user clicks a button.
+- Built with Node.js and React.
+- Hosted on AWS.
+- 5,000 daily active users
+```
+
+## Skills
+In general you want to include three items in this section:
+
+- Programming Languages (Ex: Java, C++, Python)
+- Libraries and Frameworks (Ex: React, Django, Spark)
+- Tools and Misc Systems (Ex: git, vagrant, bash, docker)
+
+Hard skills are better than soft skills. You probably don't need to put "teamwork" or "communication" on your resume.
 
 ---
 
@@ -290,7 +320,7 @@ challenge. You can practice these through a number of websites, but here are our
 1. [Hackerrank](https://www.hackerrank.com/)
 2. [Leetcode](https://leetcode.com/)
 3. [Codewars](https://www.codewars.com/)
-4. [Firecode.io](https://www.firecode.io/) 
+4. [Firecode.io](https://www.firecode.io/)
 
 ## CS Concepts
 Outside of algorithms and data structures, there are certain CS concepts that
@@ -319,9 +349,9 @@ Big O is the efficiency of an algorithm.
 If all goes well, a company will eventually send you an offer. This section is about what's normal, what's not, and advice about handling offers.
 
 ### After the interview
-Within 24 hours, send a thank you email to your interviewer(s) and/or recruiter. Thank them for their time and attention, mention something specific from the interview (i.e "I really enjoyed our discussion of XYZ" or "After speaking with you, I've been spending some time looking into uses of XYZ"), and offer up additional information ("Please feel free to reach out if there is anything else you need from me"). 
+Within 24 hours, send a thank you email to your interviewer(s) and/or recruiter. Thank them for their time and attention, mention something specific from the interview (i.e "I really enjoyed our discussion of XYZ" or "After speaking with you, I've been spending some time looking into uses of XYZ"), and offer up additional information ("Please feel free to reach out if there is anything else you need from me").
 
-**Tips** 
+**Tips**
 - This is where you can ask about timeline, if you haven't already. Simply include a line such as "When can I expect to hear back from you with regards to XYZ?"
 
 ### If you hear nothing
