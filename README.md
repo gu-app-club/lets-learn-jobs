@@ -234,6 +234,8 @@ These can be short interviews with an engineer or day-long interviews on campus.
 They can cover a variety of topics, but are often very similar to the online-code challenges.
 
 Tips for in-person technical interviews:
+* Start by running through a small example to make sure you and the interviewer are on the same page
+* Interviewers will not always tell you all of the information, they want to see you be able to ask questions and dive deeper into requirement gathering
 * Start simple: start with the brute force solution and then move on to more optimized solutions. It buys you time and ensures that you got at least something right.
 * Narrate your thought process: explain what you are thinking and why you are making the choices you are making. It will make you seem thoughtful and thorough and fills the awkward silence gaps.
 * Ask for help: If you don't know something, or are deciding between a couple implementations, talk through your reasoning and discuss it with your interviewer.
@@ -326,6 +328,12 @@ challenge. You can practice these through a number of websites, but here are our
 3. [Codewars](https://www.codewars.com/)
 4. [Firecode.io](https://www.firecode.io/)
 
+Tips
+* If you are struggling with a problem don't jump right to the solution, let it linger in your mind for a day and come back.
+* Once you are getting more confident trying writing solutions out on a whiteboard to get used to what it will be like in an interview.
+* When you are able to solve most questions start doing them on the whiteboard but also talking outloud. You will get used to speaking what you are thinking as you are writing code.
+* After compelting a problem do not go and attempt the next version of that same problem, it is better to appraoch problems without having just done something extremely similiar.
+
 ## CS Concepts
 Outside of algorithms and data structures, there are certain CS concepts that
 an interview might ask about that you should have a solid understanding of.
@@ -375,9 +383,10 @@ Thanks again,
 If you got rejected by a company you were really invested in, don't worry.
 - **Be polite to the company.** Do not burn bridges, do not question their decision, move on for now.
 - If you applied for multiple positions, some companies might reject you for one position and accept you for another.
-- You can always reapply. Many Googler's applied several times before they got an offer.
+- You can always reapply. Many Googler's applied several times before they got an offer. Ask your recruiter when a good time to reapply would be, some companies have 6,9 or 12 month policies. Depending on how far into the process you got some will advance you right back to the last stage you were at.
 - Rejections often happen due to bad luck. Maybe they already found enough qualified people. Maybe the recruiter was looking for a super specific library. Maybe you got filtered out by a keyword checker. Maybe they ran out of money and the position disappeared! It's not always you.
 - That said, turn this event into a positive. **Go apply to three more companies every time you get rejected.** This will give you more experience and will increase your chances over the long run.
+
 
 ### Pay
 Software internships are paid. Often, they are paid much more than other jobs. How much you get paid is highly region dependent, but in general, larger cities pay more (but are also more expensive to live in). Some of the larger household name companies can pay around 45$/hour. However, a small company in a small city might pay around 12$/hour.
@@ -385,6 +394,27 @@ Software internships are paid. Often, they are paid much more than other jobs. H
 - Check [Glassdoor](https://www.glassdoor.com/index.htm) to find previous salaries.
 - Ask around to see what other companies are paying.
 - If you don't know what a specific company is paying, you can use a similar sized company in the same area as an estimate.
+- If you want to negotioate (generally always worth a shot, could be leaving several thousand dollars on the table), ask to set up a call with your recruiter. If you negotiate politely, it is highly unlikely that a company will choose to pull the offer. If they do, than that is often a sign of how the HR department at that company operates.
+- Tips for negotiating
+  - Talk about what skills and qualifications you have that you think qualify you for an increase in compensation.
+  - If you have other offers you can use those to get an increase in compensation.
+  - There is more than just salary to negotiate:
+    - Signing bonus
+    - Moving bonus
+    - Stock/vesting schedule
+    - Vacation days
+  - Be polite, avoid words that make you seem demanding or ungrateful.
+  - If you are uncomfortable with doing this over the phone, try drafting an email like the one below.
+
+```
+Dear X,
+
+I want to again express my thanks for extending me an offer. I believe that I can bring {skills A, B, and C} to {Company Z}.
+I feel that my skills are valued at {propose increase in salary, stock, signing bonus, vesting schedule, PTO}
+
+Thanks again,
+{Name}
+```
 
 ### Discussing the offer
 Do not immediately accept offers. Always do research on the salary offered, benefits, location and company.
