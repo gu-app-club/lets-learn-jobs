@@ -166,6 +166,10 @@ In general you want to include three items in this section:
 
 Hard skills are better than soft skills. You probably don't need to put "teamwork" or "communication" on your resume.
 
+## Misc
+- [Making your resume look good](http://www.lifeclever.com/give-your-resume-a-face-lift/) 
+- [Career Cup resume tips](https://www.careercup.com/resume)
+
 ---
 
 # Finding Companies and Applying
@@ -189,6 +193,8 @@ Once you have built up your profile, you need to start applying for companies. I
 - [Breakoutlist](https://breakoutlist.com) has a list of companies that are currently experiencing large growth (and therefor will probably have more positions open)
 - [Worried about whiteboarding? Checkout this list of companies that hire without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Wealthfront's 2017 Career-launching Companies](https://blog.wealthfront.com/2017-career-launching-companies-list/)
+- [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779) (Note, often has outdated data.) 
+- [Companies that have easy applications](https://github.com/j-delaney/easy-application) 
 
 ## Reaching out to people
 
