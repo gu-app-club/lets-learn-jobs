@@ -67,7 +67,7 @@ Each of these generally have their own section on a resume, typically as:
 - Projects Section
 - Education Section
 
-**Side note**: If you have a GPA lower than 3.0, don't put it on your resume. If they ask about it, don't lie. Many companies don't care about your GPA and it frequently does not mean you are a poor engineer.
+**Side note**: If you have a GPA lower than 3.0, don't put it on your resume. If they ask about it, don't lie. Many companies don't care about your GPA and it does not mean you are a poor engineer.
 
 ## Skills
 
