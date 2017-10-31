@@ -195,6 +195,7 @@ Once you have built up your profile, you need to start applying for companies. I
 - [Wealthfront's 2017 Career-launching Companies](https://blog.wealthfront.com/2017-career-launching-companies-list/)
 - [The Really Big Hugely Ginormous Tech Company List](https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779) (Note, often has outdated data.) 
 - [Companies that have easy applications](https://github.com/j-delaney/easy-application) 
+- [Find companies by your values](https://www.keyvalues.io/) 
 
 ## Reaching out to people
 
